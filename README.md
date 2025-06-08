@@ -69,25 +69,12 @@ The dataset is a CSV file where each row represents a single tweet. Each convers
 
 ---
 
-## How to Run
-
-1. Clone the repository  
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the preprocessing and modeling notebook:
-    ```bash
-    jupyter notebook twitter-customer-support-prep-and-modeling.ipynb
-    ```
-
----
 
 ## File Naming
 
 The main notebook is named:
 
-`twitter-customer-support-prep-and-modeling.ipynb`
+`Twitter-Customer-Support-NLP-Workflow.ipynb`
 
 ---
 
